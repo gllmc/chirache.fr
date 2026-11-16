@@ -5,6 +5,9 @@ error_on_missing_language = true
 theme = "github-dark"
 
 [extra]
+cispa_url = "https://cispa.de/"
+uds_url = "https://www.uni-saarland.de/"
+quach_url = "https://wquach.github.io/"
 source = "https://github.com/gllmc/chirache.fr"
 github = "https://github.com/gllmc"
 linkedin = "https://www.linkedin.com/in/chirache/"

@@ -5,9 +5,13 @@ title = "Research"
 
 Here is an overview of the research projects I have been involved in.
 
+## Chosen-ciphertext security without the Fujisaki–Okamoto transform (2026)
+
+During my Master's research internship, I worked at [CryptoExperts](https://cryptoexperts.com/) on chosen-ciphertext (CCA) security for module-lattice-based public-key encryption schemes that do not use the Fujisaki–Okamoto (FO) transform. This work is currently under submission.
+
 ## Computable analysis and learning theory (2024-2026)
 
-I am working with Vasco Brattka on the study of uniform computability properties of PAC learning, a collaboration initiated during my internship at the University of the Bundeswehr Munich in Spring 2025. We are using computable analysis and Weihrauch reducibility to characterize the degree of constructivity of several versions of the fundamental theorem of statistical learning. We have submitted [a preprint of our work](https://arxiv.org/abs/2601.18663) in January 2026.
+I am working with Vasco Brattka on the study of uniform computability properties of PAC learning, a collaboration initiated during my internship at the University of the Bundeswehr Munich in Spring 2025. We are using computable analysis and Weihrauch reducibility to characterize the degree of constructivity of several versions of the fundamental theorem of statistical learning. We submitted [a preprint of our work](https://arxiv.org/abs/2601.18663) in January 2026. I gave a talk on it at [Computability and Complexity in Analysis](https://cca-net.de/cca2026/) in Trier in July 2026.
 
 You can also find the associated [internship report](https://media.chirache.fr/research/Internship_report_UniBw_Guillaume_Chirache.pdf) and [defense slides](https://media.chirache.fr/research/Internship_presentation_UniBw_Guillaume_Chirache.pdf). Before the internship, I was introduced to computable analysis by Olivier Bournez, whom I did a research project with during the academic year 2024-2025. Its goal was to understand the work of Akitoshi Kawamura and Stephen Cook on the definition of complexity classes for problems in computable analysis.
 
